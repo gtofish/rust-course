@@ -13,7 +13,7 @@ fn main() {
 }
 ```
 
-上面的代码展示了非常简单的闭包 `sum`，它拥有一个入参 `y`，同时捕获了作用域中的 `x` 的值，因此调用 `sum(2)` 意味着将 2（参数 `y`）跟 1（`x`）进行相加,最终返回它们的和：`3`。
+上面的代码展示了非常简单的闭包 `sum`，它拥有一个入参 `y`，同时捕获了作用域中的 `x` 的值，因此调用 `sum(2)` 意味着将 2（参数 `y`）跟 1（`x`）进行相加，最终返回它们的和：`3`。
 
 可以看到 `sum` 非常符合闭包的定义：可以赋值给变量，允许捕获调用者作用域中的值。
 
@@ -810,5 +810,6 @@ fn factory(x:i32) -> Box<dyn Fn(i32) -> i32> {
 
 这块儿内容在进阶生命周期章节中有讲，这里就不再赘述，读者可移步[此处](https://course.rs/advance/lifetime/advance.html#闭包函数的消除规则)进行回顾。
 
+## 课后习题
 
-{{#include ../../practice.md}}
+> [Rust By Practice](https://practice.rs/functional-programing/closure.html)，支持代码在线编辑和运行，并提供详细的[习题解答](https://github.com/sunface/rust-by-practice/blob/master/solutions/functional-programing/closure.md)。
