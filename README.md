@@ -47,24 +47,17 @@
 <table>
     <tr>
         <td align="center">
-            <a href="https://github.com/sunface">
-                <img src="https://avatars.githubusercontent.com/u/7036754?v=4?s=100" width="160px"   alt=""/>
+            <a href="https://github.com/EluvK">
+                <img src="https://avatars.githubusercontent.com/u/36977935?v=4" width="160px" alt=""/>
                 <br />
-                <sub><b>Sunface 🥇</b></sub>
+                <sub><b>EluvK</b></sub>
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/AllanDowney">
                 <img src="https://avatars.githubusercontent.com/u/82752697?v=4?s=100"  width="160px" alt=""/>
                 <br />
-                <sub><b>AllanDowney 🥈</b></sub>
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/EluvK">
-                <img src="https://avatars.githubusercontent.com/u/36977935?v=4" width="160px" alt=""/>
-                <br />
-                <sub><b>EluvK 🥉</b></sub>
+                <sub><b>AllanDowney</b></sub>
             </a>
         </td>
     </tr>
@@ -141,7 +134,7 @@
 ## 社区 & 读者交流
 
 - 知乎: [孙飞 Sunface](https://www.zhihu.com/people/iSunface)
-- RustCn 微信交流群：<img src="https://github.com/sunface/rust-course/assets/7036754/e621932a-944b-4674-a491-64731622da06" width="200" /> 
+- RustCn 微信交流 2 群：<img src="https://github.com/sunface/rust-course/assets/7036754/a84ec7e5-30b1-48da-9352-95503aa61a8f" width="200" /> 
 
 
 
